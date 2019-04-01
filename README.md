@@ -1,4 +1,4 @@
-# Statistical-Concepts
+## Statistical-Concepts
 Mostly, we focus on building fancy Machine Learning or Deep Learning models. I personally know many software engineers looking to transition into data scientist and blindly utilizing machine learning frameworks such as TensorFlow, Keras, Pytorch, or Apache Spark to their data without a thorough understanding of statistical and mathematical theories behind them. So we pay attention to build systematical analysis concepts. If you are the person who is familiar with ML or DL, but does not have systematical understanding of these tech. This would be good repository for you.   
 
 
